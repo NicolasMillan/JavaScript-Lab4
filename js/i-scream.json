@@ -5,8 +5,8 @@
     "active": true,
     "topFlavors": [{
         "name": "Chocolate Mint", 
-        "Calories": 300,
-        "Type": "ice-Cream",
+        "calories": 300,
+        "type": "ice-Cream",
         "ingredients": [
             "Chocolate Syrup",
             "Peppermint Sprinkle",
@@ -15,8 +15,8 @@
         "image": "https://nicolasmillan.github.io/JavaScript-Lab4/images/chocolate-mint.svg"
     },{
         "name": "Peach Mango", 
-        "Calories": 350,
-        "Type": "milshake-tipe ice-Cream",
+        "calories": 350,
+        "type": "milshake-tipe ice-Cream",
         "ingredients": [
             "Peach Syrup",
             "Mango Chunks",
